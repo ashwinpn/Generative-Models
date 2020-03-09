@@ -121,8 +121,4 @@ and Generative Models](https://arxiv.org/pdf/1810.04261v1.pdf)
 
 ------------
 
-_**Maintainer**_
 
-Gopala KR / @gopala-kr
-
---------------
